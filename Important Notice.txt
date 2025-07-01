@@ -1,0 +1,8 @@
+The project automatically downloads the flower dataset into the dataset/flower_photos directory.
+
+After the dataset is downloaded, create a new folder named Testing inside the dataset directory:
+dataset/flower_photos/Testing/
+
+Add any flower images you want to classify into the Testing folder.
+
+Run the project — it will use the trained CNN model to automatically detect and classify the flowers in the Testing folder.
